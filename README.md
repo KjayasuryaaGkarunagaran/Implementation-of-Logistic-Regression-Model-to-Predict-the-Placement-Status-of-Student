@@ -16,9 +16,9 @@ step 3: Split the data into training and testing sets, then scale (standardize) 
 
 step 4: Train a multi-output regression model using Stochastic Gradient Descent (SGD) on the training data.
 
-step 4: Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
+step 5: Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
 
-step 5: End the program
+step 6: End the program
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Stat
