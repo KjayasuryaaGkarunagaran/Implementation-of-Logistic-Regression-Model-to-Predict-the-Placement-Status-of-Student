@@ -8,11 +8,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load the California Housing dataset and select the first 3 features as input (X) and target variables (Y) (including the target price and another feature).
-2. Split the data into training and testing sets, then scale (standardize) both the input features and target variables.
-3. Train a multi-output regression model using Stochastic Gradient Descent (SGD) on the training data.
-4. Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
-
+step 1: start the program
+step 2: Load the California Housing dataset and select the first 3 features as input (X) and target variables (Y) (including the target price and another feature).
+step 3: Split the data into training and testing sets, then scale (standardize) both the input features and target variables.
+step 4: Train a multi-output regression model using Stochastic Gradient Descent (SGD) on the training data.
+step 4: Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
+step 5: End the program
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Stat
