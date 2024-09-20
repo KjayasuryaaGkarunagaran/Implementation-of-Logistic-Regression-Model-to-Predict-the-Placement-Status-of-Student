@@ -14,9 +14,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 4. Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
 
 ## Program:
+```
 Program to implement the the Logistic Regression Model to Predict the Placement Stat
 Developed by:jayasuryaa k
 Register Number: 212222040060
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -79,6 +82,7 @@ print(y_prednew)
 xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
+```
 
 
 ## Output:
